@@ -44,5 +44,4 @@ func kor8() {
 	}
 	fmt.Println(A[start : end+1])
 	fmt.Println(maxSum)
-
 }

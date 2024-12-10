@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/fiwzi/CSinKMUTNB/year2term2/algorithm/code/week1",
+      "program": "/Users/fiwzi/CSinKMUTNB/year2term2/algorithm/code/week1/build/Debug/outDebug"
+    }
+  ]
+}
