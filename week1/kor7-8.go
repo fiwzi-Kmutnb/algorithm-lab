@@ -1,8 +1,8 @@
-package main
+package week1
 
 import "fmt"
 
-func main() {
+func madin() {
 	selection := 0
 	x := 0
 	fmt.Println("1. kor7")
